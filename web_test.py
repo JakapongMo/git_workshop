@@ -6,11 +6,11 @@ print(setting)
 featureA = 69
 print(featureA)
 
-featureC = 690
+featureC = 690g
 print(featureC)
 
 featureB = 0
 print(featureB)
 
-featureMo = 777
-print(featureMo)
+featurePhongnarin = 99
+print(featureB)
