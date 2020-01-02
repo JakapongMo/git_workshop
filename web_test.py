@@ -14,3 +14,6 @@ print(featureB)
 
 featurePhongnarin = 99
 print(featureB)
+
+featureMo = 99
+print(featureMo)
