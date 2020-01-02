@@ -5,3 +5,10 @@ print(setting)
 
 featureA = 69
 print(featureA)
+
+
+
+
+
+featureC = 690
+print(featureC)
