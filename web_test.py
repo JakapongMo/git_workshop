@@ -11,3 +11,6 @@ print(featureC)
 
 featureB = 0
 print(featureB)
+
+featureMo = 777
+print(featureMo)
